@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="EDController.svg">
+   sodipodi:docname="ED Controller Guide.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1326829"
-     inkscape:cx="-526.24564"
-     inkscape:cy="566.93808"
+     inkscape:cx="367.43072"
+     inkscape:cy="518.51638"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,11 +35,11 @@
      units="mm"
      inkscape:snap-nodes="true"
      inkscape:snap-global="true"
-     inkscape:window-width="3812"
-     inkscape:window-height="1012"
-     inkscape:window-x="14"
-     inkscape:window-y="8"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid3005"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3316,7 +3316,7 @@
          sodipodi:role="line"
          id="tspan4658-1"
          x="696.70203"
-         y="604.66962">U</tspan></text>
+         y="604.66962">U*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3382,7 +3382,7 @@
          sodipodi:role="line"
          id="tspan4682-8"
          x="698.89685"
-         y="657.81915">I</tspan></text>
+         y="657.81915">I*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3437,7 +3437,7 @@
          sodipodi:role="line"
          id="tspan4702-7"
          x="696.61169"
-         y="709.97516">K</tspan></text>
+         y="709.97516">K*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3547,7 +3547,7 @@
          sodipodi:role="line"
          id="tspan5139"
          x="696.39685"
-         y="693.2547">O</tspan></text>
+         y="693.2547">O*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3558,7 +3558,7 @@
          sodipodi:role="line"
          id="tspan5143"
          x="696.86804"
-         y="764.11841">B</tspan></text>
+         y="764.11841">B*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3569,7 +3569,7 @@
          sodipodi:role="line"
          id="tspan5147"
          x="696.14539"
-         y="781.8349">M</tspan></text>
+         y="781.8349">M*</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -3604,5 +3604,16 @@
          id="tspan5159"
          x="633.01587"
          y="859.14874"> </tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3557"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,2.5390623e-6)"><flowRegion
+         id="flowRegion3559"><rect
+           id="rect3561"
+           width="247.2133"
+           height="88.33506"
+           x="478.19543"
+           y="858.21234" /></flowRegion><flowPara
+         id="flowPara3563">* - Not standard keys, will need to be set in the games options</flowPara></flowRoot>  </g>
 </svg>
